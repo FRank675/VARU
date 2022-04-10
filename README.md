@@ -1,6 +1,6 @@
 # VARU
 
-Varu is an online anomaly detection model based on multi hypothesis learning, which can effectively deal with all kinds of daily network intrusion. As shown below.
+VARU is an online anomaly detection model based on multi hypothesis learning, which can effectively deal with all kinds of daily network intrusion. As shown below.
 
 ![image](./fig/overview.png)
 
